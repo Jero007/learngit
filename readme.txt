@@ -3,4 +3,5 @@ come on
 11K
 Hello GitHub!
 create a new branch,name is 'dev'
-create a branch quick & simple.
+
+create a branch quick AND simple.
