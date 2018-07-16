@@ -2,3 +2,5 @@ I'm Test,
 my git is on windows.
 mac write a line.
 win write a line.
+
+test git fetch~
