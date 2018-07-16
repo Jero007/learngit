@@ -6,3 +6,4 @@ win write a line.
 test git fetch~
 
 win add a line.
+mac add a line too.
