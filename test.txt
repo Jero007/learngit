@@ -4,10 +4,12 @@ mac add a line .
 mac add 2 line .......
 branch-dev add a line.
 
-<<<<<<< HEAD
-branch-dev add 2 line:
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-=======
-branch-dev2 add 2 line.
-gggggggggggggggggggggggggggg
->>>>>>> dev2 change test
+
+====================================================================
+
+111111111111111
+
+
+发呆发呆发呆发呆发呆
+
+5555555555
