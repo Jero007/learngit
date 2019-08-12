@@ -1,19 +1,2 @@
 1111111
 
-222222222
-
-
-3333333
-
-Asfasfasfasf
-
-Asfasfasfas
-
-Fasfasfas
-
-<<<<<<< HEAD
-=======
-Asfasfasfasf
-
-Fasfasfasdfasdfgasdgasdgas
->>>>>>> b1e8d29... change50
