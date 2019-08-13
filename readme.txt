@@ -10,7 +10,3 @@ Keep yourself.
 Keep running.
 fix bug 01.
 Keep running. 
-
-I'm working......
-哈哈哈哈哈和坎坎坷坷看看看
-
