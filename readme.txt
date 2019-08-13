@@ -12,4 +12,8 @@ fix bug 01.
 Keep running. 
 
 I'm working......
+<<<<<<< HEAD
 呜呜呜呜呜呜呜
+=======
+哈哈哈哈哈哈哈哈
+>>>>>>> feature/rebase5

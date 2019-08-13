@@ -11,5 +11,13 @@ add a line on branch-dev2.
 branch-test add a line on windows.
 
 
+<<<<<<< HEAD
+gasdgfasgas
+=======
 gasdgfasgasfasdga
+<<<<<<< HEAD
 发沙发沙发沙发沙发
+>>>>>>> 542a136... 发沙发沙发沙发的
+=======
+发沙发沙发沙发沙发
+>>>>>>> 542a136... 发沙发沙发沙发的
